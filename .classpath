@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/AutomationSoftware/log4j-1.2.15.jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="G:/AutomationSoftware/CUSTOM REPORT/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/AutomationSoftware/CUSTOM REPORT/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="G:/AutomationSoftware/CUSTOM REPORT/velocity-dep-1.5.jar"/>
+	<classpathentry kind="lib" path="G:/AutomationSoftware/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/AutomationSoftware/extentreports-java-2.41.2/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="G:/commons-collections4-4.1-bin/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="G:/commons-collections4-4.1-bin/commons-collections4-4.1/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/testng-6.10.jar"/>
+	<classpathentry kind="lib" path="G:/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="G:/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="G:/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-examples-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="G:/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-excelant-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="G:/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-ooxml-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="G:/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-ooxml-schemas-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="G:/poi-bin-3.16-beta1-20161120/poi-3.16-beta1/poi-scratchpad-3.16-beta1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

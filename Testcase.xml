@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="Testcase">
+<parameter name="browser" value="CHROME"/>
+<parameter name="Username" value="mngr111570"/>
+<parameter name="Pass" value="besehUb"/>
+    <classes>
+      <class name="MainTest.Testcase"/>
+    </classes>
+  </test> <!-- Testcase -->
+</suite> <!-- Suite -->

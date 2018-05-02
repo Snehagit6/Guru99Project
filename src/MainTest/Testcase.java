@@ -34,7 +34,7 @@ public class Testcase {
   @Parameters({"Username","Pass"})
   public void Executetestcase(String Username,String Pass) throws FileNotFoundException, IOException{
 	  l=new Login(driver);
-	  l.validatePage();
+	  l.validatePage();	
 	  l.Log_in(Username,Pass);
 
 	 
